@@ -2,5 +2,5 @@
 
 Maze generation using depth first search.
 
-![maze](https://i.imgur.com/uFbP5Sw.gifv)
+![maze](https://i.imgur.com/uFbP5Sw.gif)
 
