@@ -19,3 +19,18 @@ The depth-first search algorithm of maze generation is frequently implemented us
 
 ![maze](https://i.imgur.com/uFbP5Sw.gif)
 
+# Getting started
+
+## Clone the repository
+
+```git clone https://github.com/apoorvpatne10/maze-generation```
+
+## Run it on localhost
+
+Create a virtual environment and install the dependencies.
+
+```pip install -r requirements.txt```
+
+Execute the following command in terminal and goto http://localhost:8000
+
+```python manage.py runserver```
